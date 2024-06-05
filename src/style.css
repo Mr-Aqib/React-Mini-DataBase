@@ -1,0 +1,13 @@
+.bkh1
+{
+    color: red;
+}
+.blimg
+{
+    width: 200px;
+}
+.holder
+{
+    display: flex ;
+    flex-wrap: wrap;
+}
